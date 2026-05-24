@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "329550270180",
+    "project_id": "collegego-8d9b8",
+    "storage_bucket": "collegego-8d9b8.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:329550270180:android:f1427e78baa68ca269a6f1",
+        "android_client_info": {
+          "package_name": "com.rithik.collegego"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCu7IRZy1VSW8hcxScnNRTgizpESGDb-2A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
